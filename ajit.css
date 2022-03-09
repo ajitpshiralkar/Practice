@@ -1,0 +1,44 @@
+.myButton{
+    background-color: red;
+    text-decoration: double;
+    width: 100px;
+    height: 25px;
+    outline: black;
+    outline-width: 2cm;
+    border-radius: 4px;
+    text-decoration-color: white;
+    
+}
+.rectangle
+{
+  height: 5cm;
+  width: 100%;
+  background-color: #008CBA;
+}
+
+.rectangle1
+{
+  height: 5cm;
+  width: 100%;
+  background-color: red;
+}
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 12px solid #008CBA;
+    height: 100px;
+    width: 75px;
+    border-radius: 100px;
+    text-emphasis-color: black;
+
+    margin: 50px;
+  }
+  
+  .button2:hover {
+    background-color: yellow;
+    color: white;
+    
+  }
+  .hide{
+      visibility: hidden;
+  }
